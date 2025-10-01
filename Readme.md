@@ -17,7 +17,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 #### Declaración ####
 
-- [ ] 1.- Crea un **objeto** de nombre **Coche** que tenga las propiedades: **marca, modelo, matricula**
+- [ ] 1.- Crea un **objeto** de nombre208 **Coche** que tenga las propiedades: **marca, modelo, matricula**
 
 - [ ] 2.- Crea un **objeto** de nombre **Casa** que tenga las propiedades: **codPostal, calle, portal, piso**
 
