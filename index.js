@@ -100,3 +100,34 @@ let Pais = {
     continente: "Europa",
     gentilicio: "Español"
 }
+
+// 18 LECTURA DE PROPIEDADES
+let codError = O_Error.codigo;
+
+// 19
+let integrantes = Grupo.integrantes
+
+// 20
+let nivelesTinta = Impresora.tinta
+
+// 21
+let pixeles = Pantalla.pixeles
+
+// 22
+let especificaciones = Movil.["especificaciones"];
+
+// 23 MODIFICACIÓN DE PROPIEDADES
+Grupo.numIntegrantes = 5;
+
+// 24 
+Pantalla.dimensiones = "1920x1080";
+
+// 25
+if(Led.encendido) {
+    Led.encendido = false;
+} else {
+    Led.encendido = true;
+}
+
+// 26
+Movil.temperatura = "20º"
