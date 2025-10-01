@@ -91,7 +91,7 @@ let Avion = {
 
 // 16
 let Paquete = {
-    
+    contenido: ["deporte", "salud", "ocio"]
 }
 
 // 17 
@@ -114,7 +114,7 @@ let nivelesTinta = Impresora.tinta
 let pixeles = Pantalla.pixeles
 
 // 22
-let especificaciones = Movil.["especificaciones"];
+let especificaciones = Movil["especificaciones"];
 
 // 23 MODIFICACIÓN DE PROPIEDADES
 Grupo.numIntegrantes = 5;
